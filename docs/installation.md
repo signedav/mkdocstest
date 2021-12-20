@@ -1,3 +1,3 @@
 # Installation and maintenance
 
-Get it on Plugin Repo.
+Get it on Plugin Repo...
