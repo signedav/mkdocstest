@@ -1,12 +1,12 @@
 # Project information
-site_name: OpenComptage
+site_name: QgisModelBaker
 site_description: >-
-  This site contains documentation of OpenComptage
+  This site contains documentation about QGIS Model Baker
 
 # Repository
-repo_name: opengisch/OpenComptage
-repo_url: https://github.com/opengisch/OpenComptage
-edit_uri: https://github.com/opengisch/OpenComptage/tree/master/docs/
+repo_name: opengisch/QgisModelBaker
+repo_url: https://github.com/opengisch/QgisModelBaker
+edit_uri: https://github.com/opengisch/QgisModelBaker/tree/master/docs/
 
 # Theme configuration
 theme:
@@ -17,7 +17,6 @@ theme:
 # Page tree
 nav:
   - Home: index.md
-  - Manuel de l'utilisateur: user_manual.md
   - Installation & maintenance (en): installation.md
   - Development (en): development.md
 

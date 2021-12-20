@@ -1,3 +1,6 @@
-# Bienvenue sur la page de documentation d'OpenComptage.
+# Welcome on the new Model Baker documentation
 
-La 22documentation est divisée en trois parties, accessibles à partir du menu. Manuel de l'utilisateur, manuel d'installation et manuel du développeur.
+<figure>
+  <img src="../assets/muffins.png" width="300" />
+  <figcaption>Muffins</figcaption>
+</figure>
